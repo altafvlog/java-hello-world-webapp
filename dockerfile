@@ -1,4 +1,4 @@
 FROM ubuntu
 MAINTAINER devopsaltaf@gmail.com
-COPY src/main/webapp/index.jsp
+COPY . . 
 EXPOSE 8080
